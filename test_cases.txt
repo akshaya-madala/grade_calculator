@@ -1,0 +1,55 @@
+Test Case 1
+Input:
+Name: Priya
+Marks: 95
+
+Expected Output:
+Grade: A
+
+
+Test Case 2
+Input:
+Name: Rahul
+Marks: 85
+
+Expected Output:
+Grade: B
+
+
+
+Test Case 3
+Input:
+Name: Anjali
+Marks: 75
+
+Expected Output:
+Grade: C
+
+
+
+Test Case 4
+Input:
+Name: Ravi
+Marks: 65
+
+Expected Output:
+Grade: D
+
+
+
+Test Case 5
+Input:
+Name: Kiran
+Marks: 40
+
+Expected Output:
+Grade: F
+
+
+
+Test Case 6
+Input:
+Marks: 120
+
+Expected Output:
+Invalid input! Please enter marks between 0 and 100.
